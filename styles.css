@@ -3,7 +3,7 @@ body {
 	font-family: "Handlee", cursive;
 }
 * {
-	border: 1px dashed red;
+	border: none;
 	min-height: 10px;
 }
 .postcard {
